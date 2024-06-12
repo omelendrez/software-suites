@@ -1,8 +1,9 @@
 body {
   font-family: 'Roboto', sans-serif;
   margin: 2rem;
-  background-image: url(/assets/abstract-heavy-azure-fog-dark-liquid_23-2148101977.jpg);
+  /* background-image: url(/assets/abstract-heavy-azure-fog-dark-liquid_23-2148101977.jpg); */
   /* background-size: cover; */
+  background-color: #124e66;
   color: rgba(0, 255, 255, 1);
   text-shadow: 1px 2px 4px #000;
 }
