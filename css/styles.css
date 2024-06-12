@@ -1,10 +1,17 @@
 body {
   font-family: 'Roboto', sans-serif;
   margin: 2rem;
-  background-image: url(/assets/online-cloud-data-storage-rack-concept-glass-cube-digital-server-global-network-database_90220-1050.avif);
+  background-image: url(/assets/free-vector-background-elegant-wave-luxury-background-design-modern_779267-1446.jpg);
   background-size: cover;
-  color: white;
+  color: rgba(0, 255, 255, 1);
   text-shadow: 1px 2px 4px #000;
+}
+
+header {
+  padding: 2rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  margin-bottom: 2rem;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.3);
 }
 
 div {
@@ -19,7 +26,7 @@ div {
 
 section {
   padding: 1rem 2rem;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.3);
   max-width: 40%;
   border-radius: 6px;
   margin: 1rem 0;
